@@ -7,7 +7,7 @@ Open file format for hymn lyrics.
 This is initial draft of the format to share hymn lyrics in standard way.   
 Tools to export the format to "_.odp_" files will enable users to generate presentation right from the "_.ohf_" format.
 
-[.lrc](https://en.wikipedia.org/wiki/LRC_(file_format) format has similar goal, but it enforce timing and should always be associated with the audio file to work properly. _Open Hymn Format_ goal is provide a standalone format to display hymn lyrics along with hymn meta information like writer and composer without the audio files.  
+[.lrc](https://en.wikipedia.org/wiki/LRC_(file_format)) format has similar goal, but it enforce timing and should always be associated with the audio file to work properly. _Open Hymn Format_ goal is provide a standalone format to display hymn lyrics along with hymn meta information like writer and composer without the audio files.  
 _Open Hymn Format_ is ideal for digital lyrics distribution. The ultimate goal is to provide mobile apps means to search and display hymns offline to allow group of people to sing along.
 
 ## Format Features
